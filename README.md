@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 Passionate Web Developer & Creative Thinker
+# 💫 About Me :
+🚀 Passionate Web Developer
 
 
 
