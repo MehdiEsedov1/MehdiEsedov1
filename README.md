@@ -1,5 +1,5 @@
 # 💫 About Me :
-🚀 Passionate Web Developer
+🚀 Passionate Backend developer
 
 
 
